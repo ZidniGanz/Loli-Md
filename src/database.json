@@ -1,0 +1,44 @@
+{
+  "sticker": {
+    "164,111,127,178,69,57,58,112,81,116,169,252,230,89,80,185,173,142,157,100,163,49,150,216,55,118,0,11,141,42,29,85": {
+      "text": "Patrick",
+      "mentionedJid": [],
+      "creator": "6281215205433@s.whatsapp.net",
+      "at": 1646513152125,
+      "locked": false
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "others": {
+    "vote": []
+  },
+  "users": {
+    "6281215205433@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6282135987347@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "62882005884901@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    }
+  }
+}
